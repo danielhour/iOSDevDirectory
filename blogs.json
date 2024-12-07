@@ -6346,6 +6346,12 @@
             "site_url": "https://xreality.zone/en/newsletter/",
             "feed_url": "https://xreality.zone/feed.xml",
             "twitter_url": "https://twitter.com/XRealityZone"
+          },
+          {
+            "title": "Pixel Pushers",
+            "author": "Daniel Hour",
+            "site_url": "https://pixelpusher.club",
+            "feed_url": "http://pixelpusher.club/feed"
           }
         ]
       },
